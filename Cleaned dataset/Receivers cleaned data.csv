@@ -1,0 +1,151 @@
+receiver_id,receiver_name,receiver_type,receiver_city,receiver_bank
+RECV0001,Ira Nair,Individual,HYDERABAD,Paytm Bank
+RECV0002,Vikram Joshi,Individual,SURAT,Axis
+RECV0003,Amit Rao,Individual,BHOPAL,Paytm Bank
+RECV0004,Neha Nair,Individual,DELHI,HDFC
+RECV0005,Singh Merchant Store,Merchant,LUCKNOW,Unknown
+RECV0006,Kumar Merchant Store,Merchant,BHOPAL,Yes Bank
+RECV0007,Sharma Merchant Store,Merchant,INDORE,Yes Bank
+RECV0008,Singh Merchant Store,Merchant,AHMEDABAD,Yes Bank
+RECV0009,Kumar Merchant Store,Merchant,AHMEDABAD,SBI
+RECV0010,Amit Rathore,Individual,INDORE,BOB
+RECV0011,Aarav Mishra,Individual,KOLKATA,SBI
+RECV0012,Neha Gupta,Individual,LUCKNOW,HDFC
+RECV0013,Myra Verma,Individual,ALWAR,ICICI
+RECV0014,Vikram Iyer,Individual,PUNE,Yes Bank
+RECV0015,Manish Reddy,Individual,HYDERABAD,Paytm Bank
+RECV0016,Kumar Merchant Store,Merchant,DELHI,Paytm Bank
+RECV0017,Arjun Jain,Individual,BHOPAL,SBI
+RECV0018,Kavya Joshi,Individual,HYDERABAD,BOB
+RECV0019,Krishna Patel,Individual,PUNE,Kotak
+RECV0020,Singh Merchant Store,Merchant,SURAT,SBI
+RECV0021,Aadhya Rao,Individual,SURAT,Axis
+RECV0022,Sharma Merchant Store,Merchant,KOLKATA,Yes Bank
+RECV0023,Neha Verma,Individual,BENGALURU,SBI
+RECV0024,Krishna Joshi,Individual,BENGALURU,ICICI
+RECV0025,Rohan Jain,Individual,BHOPAL,PNB
+RECV0026,Vikram Chauhan,Individual,BENGALURU,ICICI
+RECV0027,Anika Jain,Individual,HYDERABAD,Kotak
+RECV0028,Singh Merchant Store,Merchant,INDORE,BOB
+RECV0029,Vivaan Nair,Individual,CHENNAI,BOB
+RECV0030,Ananya Iyer,Individual,HYDERABAD,Kotak
+RECV0031,Vikram Joshi,Individual,AHMEDABAD,Axis
+RECV0032,Neha Kumar,Individual,SURAT,SBI
+RECV0033,Aadhya Joshi,Individual,LUCKNOW,BOB
+RECV0034,Sharma Merchant Store,Merchant,PUNE,Unknown
+RECV0035,Priya Nair,Individual,DELHI,Axis
+RECV0036,Kumar Merchant Store,Merchant,CHENNAI,SBI
+RECV0037,Reyansh Mehta,Individual,INDORE,Paytm Bank
+RECV0038,Sharma Merchant Store,Merchant,BHOPAL,Kotak
+RECV0039,Aarav Mishra,Individual,BENGALURU,HDFC
+RECV0040,Vikram Shah,Individual,BENGALURU,Axis
+RECV0041,Krishna Joshi,Individual,PUNE,BOB
+RECV0042,Rahul Nair,Individual,ALWAR,PNB
+RECV0043,Myra Patel,Individual,DELHI,Yes Bank
+RECV0044,Ananya Mishra,Individual,PUNE,BOB
+RECV0045,Sharma Merchant Store,Merchant,INDORE,SBI
+RECV0046,Manish Mehta,Individual,KOLKATA,BOB
+RECV0047,Reyansh Chauhan,Individual,BENGALURU,Axis
+RECV0048,Rahul Chauhan,Individual,ALWAR,Yes Bank
+RECV0049,Pooja Nair,Individual,MUMBAI,Paytm Bank
+RECV0050,Manish Joshi,Individual,CHENNAI,Paytm Bank
+RECV0051,Sharma Merchant Store,Merchant,BHOPAL,SBI
+RECV0052,Aadhya Kumar,Individual,BHOPAL,Axis
+RECV0053,Sharma Merchant Store,Merchant,JAIPUR,Paytm Bank
+RECV0054,Vivaan Rao,Individual,CHENNAI,Yes Bank
+RECV0055,Aarav Sharma,Individual,LUCKNOW,BOB
+RECV0056,Singh Merchant Store,Merchant,INDORE,Paytm Bank
+RECV0057,Aarav Bhatt,Individual,BHOPAL,BOB
+RECV0058,Manish Yadav,Individual,DELHI,Paytm Bank
+RECV0059,Sharma Merchant Store,Merchant,KOLKATA,Kotak
+RECV0060,Ishaan Reddy,Individual,DELHI,BOB
+RECV0061,Krishna Jain,Individual,ALWAR,HDFC
+RECV0062,Priya Verma,Individual,DELHI,Unknown
+RECV0063,Myra Verma,Individual,CHENNAI,ICICI
+RECV0064,Kumar Merchant Store,Merchant,CHENNAI,HDFC
+RECV0065,Manish Verma,Individual,BENGALURU,Yes Bank
+RECV0066,Manish Gupta,Individual,CHENNAI,Paytm Bank
+RECV0067,Vivaan Yadav,Individual,BHOPAL,SBI
+RECV0068,Pari Kumar,Individual,SURAT,BOB
+RECV0069,Rohan Yadav,Individual,KOLKATA,BOB
+RECV0070,Riya Chauhan,Individual,HYDERABAD,ICICI
+RECV0071,Neha Gupta,Individual,LUCKNOW,PNB
+RECV0072,Kumar Merchant Store,Merchant,BENGALURU,PNB
+RECV0073,Ira Rao,Individual,HYDERABAD,SBI
+RECV0074,Sanjay Patel,Individual,AHMEDABAD,PNB
+RECV0075,Saanvi Iyer,Individual,MUMBAI,BOB
+RECV0076,Singh Merchant Store,Merchant,ALWAR,HDFC
+RECV0077,Sharma Merchant Store,Merchant,HYDERABAD,ICICI
+RECV0078,Ananya Nair,Individual,DELHI,SBI
+RECV0079,Kavya Nair,Individual,SURAT,HDFC
+RECV0080,Sharma Merchant Store,Merchant,HYDERABAD,Paytm Bank
+RECV0081,Aadhya Singh,Individual,JAIPUR,PNB
+RECV0082,Ira Rao,Individual,SURAT,BOB
+RECV0083,Kumar Merchant Store,Merchant,HYDERABAD,Paytm Bank
+RECV0084,Krishna Mehta,Individual,LUCKNOW,BOB
+RECV0085,Kumar Merchant Store,Merchant,ALWAR,Yes Bank
+RECV0086,Sharma Merchant Store,Merchant,HYDERABAD,BOB
+RECV0087,Sanjay Gupta,Individual,PUNE,Axis
+RECV0088,Myra Rao,Individual,KOLKATA,Yes Bank
+RECV0089,Kumar Merchant Store,Merchant,JAIPUR,PNB
+RECV0090,Saanvi Chauhan,Individual,AHMEDABAD,BOB
+RECV0091,Priya Rao,Individual,MUMBAI,PNB
+RECV0092,Neha Mishra,Individual,AHMEDABAD,ICICI
+RECV0093,Ananya Rathore,Individual,INDORE,Yes Bank
+RECV0094,Sanjay Jain,Individual,PUNE,Unknown
+RECV0095,Saanvi Nair,Individual,DELHI,Axis
+RECV0096,Riya Yadav,Individual,CHENNAI,SBI
+RECV0097,Kavya Mishra,Individual,AHMEDABAD,HDFC
+RECV0098,Sanjay Iyer,Individual,CHENNAI,ICICI
+RECV0099,Krishna Agarwal,Individual,CHENNAI,BOB
+RECV0100,Aditya Patel,Individual,KOLKATA,BOB
+RECV0101,Manish Iyer,Individual,LUCKNOW,PNB
+RECV0102,Sanjay Joshi,Individual,KOLKATA,HDFC
+RECV0103,Sharma Merchant Store,Merchant,CHENNAI,PNB
+RECV0104,Singh Merchant Store,Merchant,JAIPUR,BOB
+RECV0105,Ananya Iyer,Individual,DELHI,HDFC
+RECV0106,Anika Bhatt,Individual,LUCKNOW,Axis
+RECV0107,Saanvi Patel,Individual,SURAT,Paytm Bank
+RECV0108,Sharma Merchant Store,Merchant,AHMEDABAD,Kotak
+RECV0109,Aditya Singh,Individual,BHOPAL,ICICI
+RECV0110,Ananya Patel,Individual,SURAT,Paytm Bank
+RECV0111,Myra Singh,Individual,AHMEDABAD,Yes Bank
+RECV0112,Rohan Verma,Individual,SURAT,HDFC
+RECV0113,Kumar Merchant Store,Merchant,CHENNAI,ICICI
+RECV0114,Pooja Jain,Individual,LUCKNOW,Paytm Bank
+RECV0115,Singh Merchant Store,Merchant,HYDERABAD,Axis
+RECV0116,Rahul Yadav,Individual,MUMBAI,BOB
+RECV0117,Pooja Rao,Individual,BENGALURU,BOB
+RECV0118,Neha Mishra,Individual,BENGALURU,HDFC
+RECV0119,Sanjay Joshi,Individual,MUMBAI,PNB
+RECV0120,Sharma Merchant Store,Merchant,ALWAR,Yes Bank
+RECV0121,Rahul Chauhan,Individual,KOLKATA,BOB
+RECV0122,Diya Nair,Individual,BHOPAL,ICICI
+RECV0123,Neha Rathore,Individual,KOLKATA,HDFC
+RECV0124,Ananya Singh,Individual,BENGALURU,HDFC
+RECV0125,Singh Merchant Store,Merchant,MUMBAI,BOB
+RECV0126,Arjun Mehta,Individual,HYDERABAD,ICICI
+RECV0127,Riya Yadav,Individual,LUCKNOW,Yes Bank
+RECV0128,Sai Chauhan,Individual,BHOPAL,Unknown
+RECV0129,Aarav Shah,Individual,MUMBAI,BOB
+RECV0130,Anika Shah,Individual,HYDERABAD,Yes Bank
+RECV0131,Deepak Patel,Individual,AHMEDABAD,HDFC
+RECV0132,Sanjay Jain,Individual,ALWAR,Kotak
+RECV0133,Kumar Merchant Store,Merchant,MUMBAI,Yes Bank
+RECV0134,Vihaan Mehta,Individual,DELHI,Paytm Bank
+RECV0135,Diya Joshi,Individual,BHOPAL,Yes Bank
+RECV0136,Aadhya Singh,Individual,INDORE,Axis
+RECV0137,Vivaan Patel,Individual,ALWAR,HDFC
+RECV0138,Vihaan Jain,Individual,BENGALURU,PNB
+RECV0139,Ira Iyer,Individual,MUMBAI,ICICI
+RECV0140,Deepak Mishra,Individual,SURAT,PNB
+RECV0141,Ira Joshi,Individual,MUMBAI,Kotak
+RECV0142,Ishaan Bhatt,Individual,CHENNAI,ICICI
+RECV0143,Sanjay Iyer,Individual,JAIPUR,ICICI
+RECV0144,Arjun Jain,Individual,MUMBAI,PNB
+RECV0145,Vikram Reddy,Individual,AHMEDABAD,Kotak
+RECV0146,Saanvi Patel,Individual,DELHI,HDFC
+RECV0147,Pooja Agarwal,Individual,INDORE,Yes Bank
+RECV0148,Ananya Mehta,Individual,JAIPUR,HDFC
+RECV0149,Kavya Nair,Individual,BHOPAL,Paytm Bank
+RECV0150,Aadhya Mishra,Individual,AHMEDABAD,PNB
