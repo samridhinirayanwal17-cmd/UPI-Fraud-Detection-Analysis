@@ -52,6 +52,10 @@ Top fraud-prone receiver cities identified (Bengaluru, Pune, Mumbai among the hi
 
 SQL and Excel Data Model results were cross-checked against each other and matched, confirming the analysis is reliable
 
+![Fraud count by receiver city](Screenshots/City_fraud_chart.png)
+   ![Fraud count by device type](Screenshots/KYC_fraud_chart.png)
+   ![Fraud rate by KYC status](Screenshots/device_fraud_chart.png)
+
 
 Recommendations
 
@@ -69,8 +73,5 @@ Investigate top fraud-prone receiver cities — concentration in cities like Ben
 
 Fix the referential integrity gap — the 6 orphan transactions (valid receiver, no matching customer) point to a data pipeline issue upstream; resolving this would improve both fraud detection accuracy and downstream reporting reliability.
 
-![Fraud count by receiver city](Screenshots/City_fraud_chart.png)
-   ![Fraud count by device type](Screenshots/KYC_fraud_chart.png)
-   ![Fraud rate by KYC status](Screenshots/device_fraud_chart.png)
 
 
