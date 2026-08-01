@@ -69,8 +69,8 @@ Investigate top fraud-prone receiver cities — concentration in cities like Ben
 
 Fix the referential integrity gap — the 6 orphan transactions (valid receiver, no matching customer) point to a data pipeline issue upstream; resolving this would improve both fraud detection accuracy and downstream reporting reliability.
 
-![Fraud count by receiver city](screenshots/city_fraud_chart.png)
-   ![Fraud count by device type](screenshots/kyc_fraud_chart.png)
-   ![Fraud rate by KYC status](screenshots/device_fraud_chart.png)
+![Fraud count by receiver city](Screenshots/city_fraud_chart.png)
+   ![Fraud count by device type](Screenshots/kyc_fraud_chart.png)
+   ![Fraud rate by KYC status](Screenshots/device_fraud_chart.png)
 
 
