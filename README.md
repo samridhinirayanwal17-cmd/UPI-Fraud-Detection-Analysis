@@ -53,8 +53,8 @@ Top fraud-prone receiver cities identified (Bengaluru, Pune, Mumbai among the hi
 SQL and Excel Data Model results were cross-checked against each other and matched, confirming the analysis is reliable
 
 ![Fraud count by receiver city](Screenshots/City_fraud_chart.png)
-   ![Fraud count by device type](Screenshots/KYC_fraud_chart.png)
-   ![Fraud rate by KYC status](Screenshots/device_fraud_chart.png)
+   ![Fraud count by KYC status](Screenshots/KYC_fraud_chart.png)
+   ![Fraud rate by device type](Screenshots/device_fraud_chart.png)
 
 
 Recommendations
